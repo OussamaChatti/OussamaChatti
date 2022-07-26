@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama Chatti</h1>
 <h3 align="center">A passionate Computer Science student from Tunisia</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussamachatti" alt="oussamachatti" /></a> </p>
-
 - 🌱 I’m currently learning : **React js**
 
 - 📫 How to reach me : **oussama.chatti.12@gmail.com**
