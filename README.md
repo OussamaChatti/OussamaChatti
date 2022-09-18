@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oussama Chatti</h1>
-<h3 align="center">A passionate Computer Science student from Tunisia</h3>
+<h3 align="center">A passionate Software Engineering Student & Full-Stack Developer from Tunisia</h3>
 
-- 🌱 I’m currently learning : **React js**
+- 🌱 I’m currently learning : **React js**,**Node js**,**Express js**,**MongoDB**
 
 - 📫 How to reach me : **oussama.chatti.12@gmail.com**
 
